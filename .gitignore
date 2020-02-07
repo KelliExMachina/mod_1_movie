@@ -1,4 +1,5 @@
 # Block data files
+.DS_Store
 *.tsv
 *.csv
 # Byte-compiled / optimized / DLL files
