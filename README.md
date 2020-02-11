@@ -15,12 +15,24 @@ After completing 2 intense weeks of Python training (including Pandas, NumPy, an
 
 ## Project Secifics
 
+Students were given several sets of unclean data.  The assignment was to **clean** the data, **combine** it, and **analyze** any patterns to determine any relevancy of data.
 
+## Deliverables
 
+1. At least 3 questions/recommendations good business case?
+2. New GitHub repository
+3. README.MD
+4. Presentation deck, 8 slides for 5 min presentation for non-tech audience with some tech people present.
+5. Jupiter notebook with technical description for tech people
+6. Blog post
+7. Live presentation
+8. At least 4 meaningful visualizations 
 
-## Should Microsoft enter the original content movie market?
+## The Problem
+
+### Should Microsoft enter the original content movie market?
  
-### Questions for consideration:
+#### Questions for consideration:
  
 >1. What is the relationshipe of cost to gross receipts?
 >  * Effects of genre
@@ -29,3 +41,13 @@ After completing 2 intense weeks of Python training (including Pandas, NumPy, an
 >2. Domestic box office only, or foreign as well? _Separate bar charts_, year over year each.
 >3. Who are the major studios, and can Microsoft compete? _Pie chart_
 >4. Of profitable movies, what is the relationship of budget?  How many were profitable?
+
+## Files in This Repository
+
+The following files are located in this repository:
+
+* README.md - this file
+* Microsoft.ipynb - A Jupiter Notebook representing the technical calculations for the project.
+* data_cleaning.ipynb - AJupyter Notebook documenting the cleaning techniques used in this exercise.
+* Microsoft.pptx - A presentation of findings.
+* datazipped - A zipped collection of the data used in the study.
