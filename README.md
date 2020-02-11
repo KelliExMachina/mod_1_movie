@@ -20,11 +20,11 @@ Students were given several sets of unclean data.  The assignment was to **clean
 ## Deliverables
 
 1. At least 3 questions/recommendations good business case?
-2. New GitHub repository
+2. New GitHub [repository](https://github.com/KelliExMachina/mod_1_movie)
 3. README.MD
 4. Presentation deck, 8 slides for 5 min presentation for non-tech audience with some tech people present.
-5. Jupiter notebook with technical description for tech people
-6. Blog post
+5. [Jupiter Notebook](https://jupyter.org/) with technical description for tech people
+6. [Blog post](https://medium.com/@kelliexmachina) 
 7. Live presentation
 8. At least 4 meaningful visualizations 
 
@@ -40,14 +40,15 @@ Students were given several sets of unclean data.  The assignment was to **clean
 >  * Effects of number of theaters
 >2. Domestic box office only, or foreign as well? _Separate bar charts_, year over year each.
 >3. Who are the major studios, and can Microsoft compete? _Pie chart_
->4. Of profitable movies, what is the relationship of budget?  How many were profitable?
+>4. Of profitable movies, what is the relationship of budget?  How many were profitable?  
+
 
 ## Files in This Repository
 
 The following files are located in this repository:
 
-* README.md - this file
-* Microsoft.ipynb - A Jupiter Notebook representing the technical calculations for the project.
-* data_cleaning.ipynb - AJupyter Notebook documenting the cleaning techniques used in this exercise.
-* Microsoft.pptx - A presentation of findings.
-* datazipped - A zipped collection of the data used in the study.
+* <span style="color:blue">**README.md**</span> - this file
+* <span style="color:blue">**Microsoft.ipynb**</span> - A [Jupiter Notebook](https://jupyter.org/) representing the technical calculations for the project.
+* <span style="color:blue">**data_cleaning.ipynb**</span> - A [Jupyter Notebook](https://jupyter.org/) documenting the cleaning techniques used in this exercise.
+* <span style="color:blue">**Microsoft.pptx**</span> - A presentation of findings.
+* <span style="color:blue">**datazipped**</span> - A zipped collection of the data used in the study.
